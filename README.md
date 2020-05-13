@@ -1,4 +1,5 @@
 # hello-world
 learn to use github
 
-never successed
+学习使用Github，to new branch
+
